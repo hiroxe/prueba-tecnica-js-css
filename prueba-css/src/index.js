@@ -1,4 +1,3 @@
-
 var arrayTest = [1, 2, 3, 3, 2, 1, 4];
 
 document.getElementById("app").innerHTML = `
@@ -9,10 +8,10 @@ document.getElementById("app").innerHTML = `
 
   <h2>Considerations</h2>
   <ul>
-    <li>Values are duplicated only twice.</li>
-    <li>There is only one non duplicate value.</li>
-    <li>The non duplicate value can be placed anywhere on the array.</li>
-    <li>The result must be an integer.</li>
+    <li>Values are <b>duplicated only twice.</b></li>
+    <li>There is <b>only one non duplicate value.</b></li>
+    <li>The non duplicate value can be placed <b>anywhere on the array.</b></li>
+    <li>The result must be an <b>integer.</b></li>
   </ul>
   
   <h2>Test Data</h2>
